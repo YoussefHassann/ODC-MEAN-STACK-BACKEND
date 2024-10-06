@@ -97,8 +97,3 @@ module.exports = {
     updateUserPassword
 }
 
-
-// jkldjkljeij6781567$%%$#^5356YGSHJADHJKDAJHKIOUD897&*^&*^%&
-
-// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQWhtZWQiLCJpYXQiOjE3MjcyNTY3NTR9.dJDFqGuqWYgJRYH8dyT3d1IBx8n8tbCw1iJWcVjE_jI
-// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQWhtZWQiLCJpYXQiOjE3MjcyNTY4Njh9.0aXwWBN3aH4puFGt0gM9iZh-KOGc6r5xLuA2YARfIMo

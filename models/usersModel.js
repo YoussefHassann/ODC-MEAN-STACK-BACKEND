@@ -5,10 +5,10 @@ const usersSchema = mongoose.Schema({
     userPassword : String,
     userEmail : String,
     userPhone : String,
-    userGender : {type : String , enum : ['Male','Female']},
-    userAddress : {type : Number, min : 5},
+    // userGender : {type : String , enum : ['Male','Female']},
+    // userAddress : {type : Number, min : 5},
     
-    userRegisteredAt : {type : Date, default : Date.now()}
+    // userRegisteredAt : {type : Date, default : Date.now()}
 })
 
 const usersModel = mongoose.model('User',usersSchema)
